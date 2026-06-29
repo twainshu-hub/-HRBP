@@ -31,4 +31,4 @@
 
 本作品采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可。使用时须署名作者。
 
-作者：舒士钦（twainshu）
+作者：twainshu
